@@ -176,7 +176,7 @@ WA-EV-Warehouse/
 ├── etl_ev_population.py       # Main ETL script
 ├── db_config.ini              # Local config file (sample)
 ├── README.md
-├── data/                      # Source CSV
+├── Electric_Vehicle_Population_Data.csv                      # Source CSV
 └── output/                    # Processed tables (optional)
 ```
 
@@ -194,7 +194,7 @@ WA-EV-Warehouse/
 
 ## Data Source
 
-[Washington State Electric Vehicle Population Data](https://data.wa.gov/api/views/f6w7-q2d2/rows.csv?accessType=DOWNLOAD)
+Note: The original data files have been sanitized to remove any sensitive content. Only column headers are retained for reference and structure demonstration.
 
 ## Author
 
